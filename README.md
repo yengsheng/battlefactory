@@ -50,7 +50,7 @@ The next function is the use_move function. This takes in the user, the opposing
 
 # SelectableGrid class
 
-The SelectableGrid class subclasses from FocusBehavior, CompoundSelectionBehavior, and GridLayout. It modifies some of the functions these classes to create a customized Pokémon selection page for the player. There are functions that change the color of the button is they are selected or if they are not, and disallows the user from selecting more than three Pokémon. A function that plays a sound when is also added.
+The SelectableGrid class subclasses from CompoundSelectionBehavior and GridLayout. It modifies some of the functions these classes to create a customized Pokémon selection page for the player. There are functions that change the color of the button is they are selected or if they are not, and disallows the user from selecting more than three Pokémon. A function that plays a sound when is also added.
 
 # SelectionScreen class
 
