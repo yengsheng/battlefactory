@@ -4,7 +4,7 @@ The game takes inspiration from the Battle Factory, which is an installation of 
 
 ## How to Play
 
-<img src="https://i.ibb.co/mF1ThZt/Selection-Screen.png" alt="drawing" width="250" height="375"/>  <img src="https://i.ibb.co/822bbn9/Selected-Screen.png" alt="drawing" width="250" height="375"/>
+<img src="https://i.ibb.co/mNz1QLV/Selection-Screen.png" alt="drawing" width="250" height="375"/>  <img src="https://i.ibb.co/LnFsSKN/Selected-Screen.png" alt="drawing" width="250" height="375"/>
 
 Upon running the game, the player will see the Pokémon selection screen, depicted on the left, where they are prompted to select three Pokémon. Once selected, the button indicating the Pokémon would become red, as depicted on the image on the right. Once the player has selected three Pokémon, they can confirm their choice by clicking the Okay button, and are moved to the next screen.
 
