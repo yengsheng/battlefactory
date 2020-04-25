@@ -79,7 +79,11 @@ The Game class subclasses from App, and consists of the build function which cre
 
 ### Acknowledgements
 Pokémon sprites - https://veekun.com/dex/downloads
+
 Pokémon BGM - https://www.youtube.com/watch?v=TNZ7gllxeZs
+
 Pokémon Button SFX - https://www.youtube.com/watch?v=88qRmxhqoBA
+
 Spongebob sprites - https://www.spriters-resource.com/pc_computer/monopolyspongebobsquarepantsedition/sheet/124323/
+
 Logo made with - https://textcraft.net/style/Textcraft/pokemon
